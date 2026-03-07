@@ -14,10 +14,13 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat-square&logo=moleculer&logoColor=white)
 
+Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC), with a strong focus on Software Architecture. I enjoy designing systems that are both scalable and maintainable — from distributed backends with Java and Spring Boot to modern frontends with React and Next.js. I'm particularly drawn to microservices, event-driven architectures.
+
+
 ## Current Projects
 
-- 🏗️ **[Frain](https://github.com/Frain-Architecture-as-Code)** - A modern alternative to structurizr.
-- 🚇 **[InstaChat](https://github.com/JonatanFD)** - An online private chat, encrypted e2e. 
+- 🏗️ **[Frain](https://github.com/Frain-Architecture-as-Code)** — A modern alternativce to Structurizr. Define, version, and visualize your system design.
+- 🚇 **[InstaChat](https://github.com/JonatanFD)** — Real-time private messaging with end-to-end encryption.
 
 ## GitHub Activity
 
