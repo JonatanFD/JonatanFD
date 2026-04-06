@@ -20,7 +20,8 @@ Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC),
 ## Current Projects
 
 - 🏗️ **[Frain](https://github.com/Frain-Architecture-as-Code)** — A modern alternative to Structurizr. Define, version, and visualize your system design.
-- 🚇 **[InstaChat](https://github.com/JonatanFD)** — Real-time private messaging with end-to-end encryption.
+- 🖱️ **[Omnipresent](https://github.com/JonatanFD/Omnipresent)** - A fast air mouse to control your pc from your smartphone, avaiable for macOS, windows and linux.
+- 🚇 **[InstaChat](https://github.com/JonatanFD/insta-chat)** — Real-time private messaging with end-to-end encryption.
 
 ## GitHub Activity
 
